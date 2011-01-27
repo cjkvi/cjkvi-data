@@ -1,0 +1,240 @@
+# 「法律語彙初稿」 新造漢字一覧
+
+# 本データは、当該書籍に記された新造漢字について、その語彙番号とIDS、そ
+# して関連する法律語彙（仏語）をデータ化したものである。
+
+番号	IDS	関連語彙
+a002s	⿱口幹	ab intestat
+a003s	⿱口鏖	ab irato
+a004s	⿱口圠	abordage
+a005s	⿱口腕	aboutissants
+a009	⿱口蜿	absolution
+a010	⿱口縕	abstention
+a018	⿱口麀	accrue
+a019	⿱口哀	accusation
+a023	⿱口挨	acquêt
+a026	⿱口晏	acquittoment
+a027s	⿱口軋	acte
+a028	⿱口邑	actif
+a029s	⿱口温	action
+a030s	⿳口𡖅巾	adhésion
+a031s	⿱口隅	adiré
+a034	⿱口鴛	adjudication
+a036	⿱口恩	adoption
+a042	⿱口洹	affirmation
+a044	⿱口？	affrétement
+a046	⿱口？	agent
+a048	⿱口彎	ajournement
+a050	⿱口夷	alibi
+a051	⿱口琬	alienation
+a054s	⿱口耘	aluvion
+a057	⿱口隝	altius non tollendi
+a058	⿱口𤲅	aménagement des bois
+a060	⿱口？	ameublissement
+a061	⿳口土	anatocism
+a064	⿱口悦	antichrèse
+a065	⿱口畹	anticipation
+a066	⿱口禹	antidate
+a067	⿱口鞍	appartenances
+a072	⿱口違	approve
+a077	⿱口翌	arriérages
+a084	⿱口氳	assignation
+a085	⿱口逸	assises
+a089	⿱口通	attentat
+a090s	⿱口馣	atterissement
+a091	⿱口鷃	attroupement
+a092s	⿱口揜	aubaime
+a096	⿱口𨽈	autorité
+a097s	⿱口窊	avul
+b001	𠼚	bail
+b005	⿰口蒲	banqueroute
+b006s	⿰口幣	baraterie
+b011	𠷊	bien
+b011	⿱口友
+b013	𠽲	bigamie
+b014	𡂑	bilan
+b019	⿰口湓	bon
+b020s	⿰口釜	bon pére de famille
+b023	⿰口？	brandou
+b025	⿰口悖	brevet
+c001s	⿰口渇	cabotage
+c004s	⿰口閨	calomnie
+c005	⿰口菅	Cantonnement das usages
+c005	⿰口迭
+c005	⿱幼
+c008s	⿰口坤	captation
+c016s	⿰口繡	cédule
+c018	⿰口蓀	cession
+c020	唰	charte
+c025s	𠻜	chose
+c028s	噀	citation
+c037s	喗	collusion
+c039s	⿰口肝	comman
+c040s	𡅭	commandement
+c043s	⿰口膏	comminatoire
+c062s	⿰口菫	concussion
+c063s	𠳁	condition
+c065s	咭	conflit
+c085s	⿰口闊	contrebande
+c089	⿰口倶	contumace
+c094s	⿰口髡	corruption
+c098s	𠸥	crédit
+c101s	⿰口街	criminalité
+c103s	⿰口莒	crue
+c104s	⿰口魁	culpabilité
+c105s	𠰋	cumule
+d003	⿰口垤	débet de compte
+d003	⿰口𢩿
+d003	⿰口榾
+d006s	𡀷	déception
+d008s	⿰口豚	déclaration
+d009	⿰口惰	déclinatoire
+d010	⿰口？	déconfiture
+d016s	⿰口鈍	dégradation
+d024s	𠲴	demeure
+d030s	⿰口舵	deport
+d034	⿰口逃	deruier ressort
+d034	𠴗
+d034	⿰口輩
+d036s	⿰口屠	deshérence
+d039	𠰲	désuétude
+d041s	⿰口𢧜	dette
+d043s	⿰口醇	dévolution
+d044s	⿲口黄屯	diffamation
+d046	⿰工淹	diriment
+d046	⿰口袒
+d054s	𠻪	divertissement
+d055s	𠾕	divisibilité
+d061s	⿰口臀	don
+d062s	⿰口芚	donation
+d062s	⿰口甌
+d063s	⿰口堗	dot
+e008	⿰工穏	election d'ami
+e008	⿰口但
+e009	⿰工蘊	emancipatione
+e011	⿰工越	emphythéose
+e020s	⿰工𡒃	epave
+e023s	⿰工哀	equité
+e027s	⿰工頞	etat
+e029	⿰工園	eviction
+e030	⿰工瑗	evocation
+e031	⿰工筠	exception
+e036s	⿰工歪	exigibilité
+e038s	⿰工匀	expédition
+e041	⿰工宛	exposition
+e042s	⿰工遠	expropriation
+e043s	⿰工運	extradition
+f001	⿰口肺	failite
+f008s	⿰口粉	fin
+f011s	⿰口販	fond
+f012s	⿰口返	fonds
+f013	𠵽	fongible
+f015	𠸷	force majeure
+f016	⿰口墳	forclusion
+f017	⿰口廢	forfait
+f023s	⿰口𡚱	fourrière
+f028s	啡	fruits
+g005	⿰口鉏	gains nuptiaux
+g005	⿰口組
+g008	⿰口純	génération
+g011s	⿰口酷	grosse
+g012	⿰口兀	grosse aventure
+g012	⿱口友
+h004	嗢	homologation
+i001	⿰亻麀	immatricule
+i003s	⿰亻洋	impenses
+i004	⿰口板	inputation de payement
+i008	⿰亻閲	inceste
+i013	⿰亻勩	indivisibilité
+i014s	𠋟	infanticide
+i015	𠋘	innavigabilité
+i019s	𠐒	instance
+i022	⿰亻窪	interlocutoire
+i025	⿰亻苑	intervention
+j004	⿰口雖	judicatum solvi
+j010s	⿰口潤	juridiction
+j013	𡁠	justice
+l002	⿰口綸	lagalization
+l004	𡆕	légitimation
+l005	⿰口鈴	légitime
+l006	嚟	légitimite
+l008	⿰口隣	licitation
+l012s	𠺘	litispendance
+l015s	𡀩 	louage
+m004	⿰口蠻	mandement
+m012s	⿰口没	minute
+m015	⿰口袂	mitoyenneté
+m020	⿰口繆	mort civile
+n005	⿰口濃	negotiorum gestor
+n005	⿰口蛇
+n008	⿰口昵	nonbis in idem
+n008	𠱆
+n008	𠹌
+n010	⿰口禰	notoriété
+n012s	⿰口輭	novation
+n014s	⿰口濘	nullité
+o003	𡂿	tutelle officieuse
+o007s	⿰口漚	ouéreux
+o011s	嗚	ordre
+o014s	⿰口？	ouvrage
+p003s	𡁃	paraphe
+p005s	⿰口剖	parcours
+p013s	⿰口攀	participation
+p014s	㗑	partie
+p017	⿰口蓽	passif
+p022	⿱噴口	péremption
+p024	⿰口菠	pétitoire
+p025	𠿙	pignoratif
+p032	呠	portion disponible
+p032	⿰口圖
+p041	⿰口薜	precairé
+p041	喯	possession
+p044s	⿰口俳	préjugé
+p047	⿰口畚	prescription
+p053	⿰口袢	prévention
+p054	⿰口觱	prise á partie
+p070	⿰口驚	puberté
+p073	⿰口彪	purge
+q001	⿰口溪	qualite
+r005	𠼩	ratification
+r011	⿰口巒	recolement
+r012	⿰口笠	récognitif
+r013	𡃝	recommendation
+r014	㖮	reconduction
+r018	⿰口裸	rédhibitoire
+r022	𪢘	réintégrande
+r024	⿰口嬴	remploi
+r025	⿰口埓	rente
+r027s	⿰口灓	représentant
+r028	𠼱	repris de justice
+r028	𠴗
+r028	⿰口茹
+r031	⿰口？	reproches
+r035s	⿰口藺	rescision
+r038s	⿰口䚬	résiliation
+r042s	嚛	ressort
+r044	𡀂	retrait
+r045	⿰口蠡	rétroactivité
+r047s	⿰口輪	révocation
+s011s	⿰口繡	serviude
+s020s	⿰口銷	stellionat
+s021	⿰口遜	stipulation
+s022	⿰口損	subrogation
+s024	𠹀	substitution de biens
+s024	𠷊	substitution de biens
+s026	⿰口紗	surenchere
+t002	⿰口潭	tenant
+t006	⿰口籀	tierce-opposition
+t006	⿰口𪉸
+t007	⿰口棁	tiers
+u001	⿱耶	ultra-petita
+u001	𡀥	ultra-petita
+u002s	⿱鴉	unilateral
+u003s	⿱需	union
+u005	⿱越	usance
+v001	⿰口挽	vacants
+v004	⿰口汾	vaine pature
+v004	𠽾
+v006s	⿱薠	ventilation
+v007	⿰口繁	vérification
+v008	⿰口肥	viabilite
