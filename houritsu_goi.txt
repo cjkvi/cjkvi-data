@@ -3,6 +3,23 @@
 # 本データは、当該書籍に記された新造漢字について、その語彙番号とIDS、そ
 # して関連する法律語彙（仏語）をデータ化したものである。
 
+# @Book{jp-40021935,
+#   author    = {司法省},
+#   sortname  = {シホウショウ},
+#   title     = {法律語彙初稿},
+#   sorttitle = {ホウリツ ゴイ ショコウ},
+#   date      = {明16-12},
+#   publisher = {司法省 明16. 12 1883},
+#   location  = {〔東京〕},
+#   size      = {1013, 115p ; 19cm},
+#   language  = {JPN},
+#   url       = {http://api.porta.ndl.go.jp/ndlopac/cgi-bin/ndlopac/ndl-book?kywd=40021935, http://kindai.da.ndl.go.jp/info:ndljp/pid/786206},
+#   note      = {巻末 (115p) :目録},
+#   ndlcn     = {YDM30076},
+#   ndc       = 320,
+#   nbn       = {jp-40021935},
+# }
+
 番号	IDS	関連語彙
 a002s	⿱口幹	ab intestat
 a003s	⿱口鏖	ab irato
