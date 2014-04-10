@@ -327,7 +327,7 @@ V+6086B	quy
 伐	phạt
 份	phân, phần
 ⿰亻夬	phật	# [V+60024]
-⿰亻天	phật	# [V04-4071]
+𫢋	phật	# [V04-4071]
 伕	phu
 伏	phục
 仳	tị
@@ -9907,7 +9907,7 @@ V+60101	lủm
 疥	giới
 𤵕	khờ
 𤵖	nét, nhức, vết
-⿸疒𪟽	ngày, ngây	# [V04-4E4D]
+𬏝	ngày, ngây	# [V04-4E4D]
 𪽨	ngặt
 疢	sẩn, sấn
 𪽩	sưng
@@ -17681,8 +17681,8 @@ V+606B9	chuối
 𩽧	song
 ⿰鱼双	song	# [V+606B3]
 鱺,鲡	lí
-⿰魚蘭	lan, lờn	# [V04-5775]
-⿰魚⿱艹阑	lươn	# [V+606DF]
+𬵿	lan, lờn	# [V04-5775]
+⿰魚𬞕	lươn	# [V+606DF]
 𩽸	nheo
 # Bộ điểu   鳥
 鳥,鸟	đeo, đẽo, đéo, điểu
@@ -17728,7 +17728,7 @@ V+606B9	chuối
 𩿨	chi, khướu
 𪀄	chim
 𫚳	chim
-⿰鳥瓜	cò	# [V04-5778]
+𬷊	cò	# [V04-5778]
 鴣,鸪	cô
 鴕,鸵	đà
 䳂	điêu, sáo, sếu
@@ -17808,7 +17808,7 @@ V+606B9	chuối
 鶧	anh
 𪃙,𪃲	chả
 𪃴	gà
-⿰𤔄鳥	gà	# [V04-577E]
+𬷤	gà	# [V04-577E]
 鶡,鹖	hạt
 䳧,𪃱	hâu
 ⿰鳥曷	hét	# [V+606F9]
@@ -17824,7 +17824,7 @@ V+606B9	chuối
 鶠	yến
 鶯,莺	anh, oanh
 鶺,鹡	chích, tích
-⿰隻鳥	chích	# [V04-5823]
+𬷩	chích	# [V04-5823]
 𪄦	choè
 𪄌	cống, ngỗng
 鶻,鹘	cốt
@@ -17832,17 +17832,17 @@ V+606B9	chuối
 鷂,鹞	diêu, diều, rêu
 𪃿	gà
 ⿰既鳥	gáy	# [V+606FA]
-⿰家鳥	gia	# [V+606FB]
+𬷬	gia	# [V+606FB]
 ⿰鳥竜	giồng	# [V+606FC]
 鶴,鹤	hạc
 𪄧	hịch
 鷄	ke, kê
-⿰鸟殳	khấu	# [V+606FD]
+𬆮	khấu	# [V+606FD]
 鶼,鹣	kiêm
 鶹,鹠	lưu
 ⿱莫鳥	mạch	# [V+606FE]
 ⿱莫鸟	mạch	# [V+606FF]
-⿰辱鳥	nộc	# [V04-5821]
+𬷨	nộc	# [V04-5821]
 鶲	ông	# [V+606F6]
 𪄤	sáo
 𪄨	sáo
@@ -17870,7 +17870,7 @@ V+606B9	chuối
 鷚,鹨	lưu
 𪅪	quạch
 鷟	sạt, sặc, soạc, soạt, trạc
-⿱族鸟	trạc	# [V+60703]
+𬸦	trạc	# [V+60703]
 𪅩	sấm
 𪄸	tích, trích
 ⿰査鳥	trả	# [V+60702]
@@ -17898,7 +17898,7 @@ V+606B9	chuối
 𪆦	tu
 𪆧	vẹt, vịt
 ⿰鳥粤	vẹt	# [V+60707]
-⿰越鳥	vẹt, vịt	# [V04-5826]
+𬷲	vẹt, vịt	# [V04-5826]
 鷰	yến
 𪆣	yểng
 䴈	ảo, ụt
@@ -17915,7 +17915,7 @@ V+606B9	chuối
 鸌	ách, hộ, vạc
 𪇨	bồ
 𪇪	chích
-⿰稟鳥	lẳm	# [V04-5827]
+𬷶	lẳm	# [V04-5827]
 䴌	mòng
 鸏	mòng, mộng
 𪇩	ngan
@@ -17956,7 +17956,7 @@ V+606B9	chuối
 ⿰卤僉	kiềm	# [V+60711]
 𪊅	mắm
 ⿰卤禁	mắm	# [V+602DE]
-⿰鹵稟	mắm	# [V04-582A]
+𬸴	mắm	# [V04-582A]
 # Bộ lộc   鹿
 鹿	lộc
 麂	hoẵng, kỉ, kiỉ
@@ -18121,7 +18121,7 @@ V+60715	ma
 𪘵	răng, rằng
 ⿰齿夌	răng	# [V+60722]
 ⿰夌齒	răng	# [V04-583A]
-⿰齿咸	hàm	# [V+60725]
+𬺍	hàm	# [V+60725]
 齷	hốc	# [V04-583B]
 齲,龋	khũ
 齶	ngạc
@@ -18155,6 +18155,6 @@ V+6072B	quân
 
 # Comment from Original Data::
 #
-#  Kho chữ Hán-Nôm mã hoá — Thứ tự Unicode	Phiên bản 15/08/2007
-#  Phiên bản 15/08/2007	Kho chữ Hán-Nôm mã hoá — Thứ tự Unicode
+#  Kho chữ Hán-Nôm mã hoá ― Thứ tự Unicode	Phiên bản 15/08/2007
+#  Phiên bản 15/08/2007	Kho chữ Hán-Nôm mã hoá ― Thứ tự Unicode
 #  28 Bản quyền © 2007 Viện nghiên cứu Hán-Nôm & Hội Bảo tồn Di sản chữ Nôm
